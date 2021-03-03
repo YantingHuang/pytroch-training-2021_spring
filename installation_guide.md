@@ -34,6 +34,8 @@ conda install -c conda-forge notebook
 conda install -c conda-forge scikit-learn 
 # install pandas
 conda install pandas
+# install matplotlib
+conda install -c conda-forge matplotlib
 ```
 
 5. Validate you have installed pytorch successfully.
