@@ -36,6 +36,8 @@ conda install -c conda-forge scikit-learn
 conda install pandas
 # install matplotlib
 conda install -c conda-forge matplotlib
+# install skimage
+conda install -c anaconda scikit-image
 ```
 
 5. Validate you have installed pytorch successfully.
